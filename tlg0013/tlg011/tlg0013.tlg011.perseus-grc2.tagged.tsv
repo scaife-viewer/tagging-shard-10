@@ -1,0 +1,42 @@
+1	0	Παλλάδʼ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	παλλάς	obj	4
+1	1	Ἀθηναίην	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	Ἀθήνη	obj	4
+1	2	ἐρυσίπτολιν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἐρυσίπτολιν	appos	1
+1	3	ἄρχομʼ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἄρχω	ROOT	3
+1	4	ἀείδειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀείδω	xcomp	3
+1	5	,	PUNCT	Z		,	punct	3
+2	0	δεινήν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	δεινός	ROOT	0
+2	1	,	PUNCT	Z		,	ROOT	1
+2	2	ᾗ	CCONJ	C-		ὅς	nsubj	5
+2	3	σὺν	ADP	R-		σύν	case	4
+2	4	Ἄρηι	ADJ	Nb	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	Ἄρης	obl	5
+2	5	μέλει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μέλει	conj	1
+2	6	πολεμήια	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολεμήϊος	amod	7
+2	7	ἔργα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἔργον	obj	5
+3	0	περθόμεναί	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	περθόμεναί	ROOT	0
+3	1	τε	CCONJ	C-		τε	ROOT	1
+3	2	πόληες	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	πόλις	ROOT	2
+3	3	ἀϋτή	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	ἀυτή	dep	2
+3	4	τε	CCONJ	C-		τε	cc	2
+3	5	πτόλεμοί	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	πτόλεμος	conj	2
+3	6	τε	CCONJ	C-		τε	cc	2
+3	7	,	PUNCT	Z		,	ROOT	7
+4	0	καί	CCONJ	C-		καί	ROOT	0
+4	1	τʼ	CCONJ	C-		τε	cc	2
+4	2	ἐρρύσατο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐρύω	ROOT	2
+4	3	λαὸν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	λαός	obj	2
+4	4	ἰόντα	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἶμι	acl	3
+4	5	τε	CCONJ	C-		τε	cc	4
+4	6	νισσόμενόν	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	νισσόμενος	conj	4
+4	7	τε	CCONJ	C-		τε	cc	2
+4	8	.	PUNCT	Z		.	punct	2
+5	0	χαῖρε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	0
+5	1	,	PUNCT	Z		,	punct	0
+5	2	θεά	NOUN	Ne	Case=Voc|Gender=Fem|Number=Sing	θεά	ROOT	2
+5	3	,	PUNCT	Z		,	ROOT	3
+5	4	δὸς	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	δίδωμι	ROOT	4
+5	5	δʼ	ADV	Df		δέ	discourse	4
+5	6	ἄμμι	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς	iobj	4
+5	7	τύχην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τύχη	obj	4
+5	8	εὐδαιμονίην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐδαιμονία	conj	7
+5	9	τε	CCONJ	C-		τε	cc	7
+5	10	.	PUNCT	Z		.	punct	4

@@ -1,0 +1,39 @@
+1	0	ἑστίη	ADJ	V-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἑστίη	cop	1
+1	1	,	PUNCT	Z		,	ROOT	1
+1	2	ἥτε	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ὅστε	ROOT	2
+1	3	ἄνακτος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἄναξ	appos	2
+1	4	Ἀπόλλωνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἀπόλλων	nmod	3
+1	5	ἑκάτοιο	NOUN	Ma	Case=Gen|Gender=Masc|Number=Sing	ἕκατος	appos	3
+2	0	Πυθοῖ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Πυθώ	obl	5
+2	1	ἐν	ADP	R-		ἐν	case	2
+2	2	ἠγαθέῃ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	ἠγάθεος	obl	5
+2	3	ἱερὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	ἱερόν	amod	4
+2	4	δόμον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	δόμος	obj	5
+2	5	ἀμφιπολεύεις	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀμφιπολεύω	ROOT	5
+2	6	,	PUNCT	Z		,	punct	5
+3	0	αἰεὶ	ADV	Df		ἀεί	advmod	3
+3	1	σῶν	ADJ	Ps	Case=Gen|Gender=Neut|Number=Plur|Person=2|Poss=Yes	σός	nmod	2
+3	2	πλοκάμων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	πλόκαμος	iobj	3
+3	3	ἀπολείβεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀπολείβω	ROOT	3
+3	4	ὑγρὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὑγρός	amod	5
+3	5	ἔλαιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	ἔλαιον	nsubj	3
+3	6	·	PUNCT	Z		·	punct	3
+4	0	ἔρχεο	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔρχομαι	ROOT	0
+4	1	τόνδʼ	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	ὅδε	det	3
+4	2	ἀνὰ	ADP	R-		ἀνά	case	3
+4	3	οἶκον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	οἶκος	obl	0
+4	4	,	PUNCT	Z		,	punct	0
+4	5	ἕνʼ	ADP	R-		εἷς	obl	6
+4	6	ἔρχεο	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔρχομαι	ROOT	6
+4	7	θυμὸν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θυμός	obj	8
+4	8	ἔχουσα	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	advcl	6
+5	0	σὺν	ADP	R-		σύν	case	1
+5	1	Διὶ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Ζεύς	ROOT	1
+5	2	μητιόεντι	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	μητιόεις	amod	1
+5	3	·	PUNCT	Z		·	ROOT	3
+5	4	χάριν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	χάρις	obj	7
+5	5	δʼ	ADV	Df		δέ	discourse	7
+5	6	ἅμʼ	ADV	Df		ἅμα	dep	7
+5	7	ὄπασσον	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ὀπάζω	ROOT	7
+5	8	ἀοιδῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀοιδή	iobj	7
+5	9	.	PUNCT	Z		.	punct	7

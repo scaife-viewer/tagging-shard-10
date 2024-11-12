@@ -1,0 +1,42 @@
+1	0	ἰητῆρα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἰατρός	ROOT	0
+1	1	νόσων	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	νόσος	nmod	0
+1	2	Ἀσκληπιὸν	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Ἀσκληπιός	obj	4
+1	3	ἄρχομʼ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἄρχομαι	ROOT	3
+1	4	ἀείδειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀείδω	xcomp	3
+1	5	,	PUNCT	Z		,	punct	3
+2	0	υἱὸν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	υἱός	ROOT	0
+2	1	Ἀπόλλωνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἀπόλλων	nmod	0
+2	2	,	PUNCT	Z	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	,	acl	0
+2	3	τὸν	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὁ	obj	4
+2	4	ἐγείνατο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γείνομαι	acl	2
+2	5	δῖα	ADP	R-		δῖος	obj	4
+2	6	Κορωνὶς	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Κορωνίς	obl	4
+3	0	Δωτίῳ	PROPN	Ne	Case=Dat|Gender=Neut|Number=Sing	Δωτίῳ	nmod	2
+3	1	ἐν	ADP	R-		ἐν	case	2
+3	2	πεδίῳ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	πεδίον	ROOT	2
+3	3	,	PUNCT	Z		,	ROOT	3
+3	4	κούρη	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	κόρη	appos	3
+3	5	Φλεγύου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Φλεγύου	nmod	4
+3	6	βασιλῆος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	βασιλεύς	appos	5
+3	7	,	PUNCT	Z		,	punct	3
+4	0	χάρμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	χάρμα	ROOT	0
+4	1	μέγʼ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μέγας	advmod	0
+4	2	ἀνθρώποισι	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἄνθρωπος	obl	0
+4	3	,	PUNCT	Z		,	orphan	0
+4	4	κακῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	κακός	amod	5
+4	5	θελκτῆρʼ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	θελκτῆρ	nmod	0
+4	6	ὀδυνάων	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ὀδύνη	iobj	5
+4	7	.	PUNCT	Z		.	ROOT	7
+5	0	καὶ	CCONJ	C-		καί	cc	4
+5	1	σὺ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	4
+5	2	μὲν	ADV	Df		μέν	discourse	4
+5	3	οὕτω	ADV	Df		οὕτως	advmod	4
+5	4	χαῖρε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	4
+5	5	,	PUNCT	Z		,	punct	4
+5	6	ἄναξ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	ἄναξ	ROOT	6
+5	7	·	PUNCT	Z		·	ROOT	7
+5	8	λίτομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	λίτομαι	ROOT	8
+5	9	δέ	ADV	Df		δέ	discourse	8
+5	10	σʼ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	obj	8
+5	11	ἀοιδῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀοιδή	obl	8
+5	12	.	PUNCT	Z		.	punct	8

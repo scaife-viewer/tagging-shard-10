@@ -1,0 +1,30 @@
+1	0	Ζῆνα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	Ζεύς	obj	4
+1	1	θεῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	θεός	nmod	0
+1	2	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	3
+1	3	ἄριστον	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	ἀγαθός	nmod	0
+1	4	ἀείσομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀείδω	ROOT	4
+1	5	ἠδὲ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	ἠδέ	dep	4
+1	6	μέγιστον	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	μέγας	conj	4
+1	7	,	PUNCT	Z		,	punct	4
+2	0	εὐρύοπα	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὐρύοπα	ROOT	0
+2	1	,	PUNCT	Z		,	cc	0
+2	2	κρείοντα	VERB	Nb	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κρείω	conj	0
+2	3	,	PUNCT	Z		,	cc	0
+2	4	τελεσφόρον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	τελεσφόρος	conj	0
+2	5	,	PUNCT	Z	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	,	dep	0
+2	6	ὅστε	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅστε	ROOT	6
+2	7	Θέμιστι	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	θέμις	iobj	6
+3	0	ἐγκλιδὸν	ADV	Df		ἐγκλιδόν	advmod	4
+3	1	ἑζομένῃ	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἑζομίγνομαι	advcl	4
+3	2	πυκινοὺς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	πυκνός	amod	3
+3	3	ὀάρους	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	ὄαρος	obj	4
+3	4	ὀαρίζει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ὀαρίζω	ROOT	4
+3	5	.	PUNCT	Z		.	punct	4
+4	0	ἵληθʼ	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	ἵλημι	ROOT	0
+4	1	,	PUNCT	Z		,	advmod	0
+4	2	εὐρύοπα	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὐρύοπα	amod	3
+4	3	Κρονίδη	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	Κρονίδης	appos	1
+4	4	,	PUNCT	Z		,	punct	0
+4	5	κύδιστε	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	κύδιστος	vocative	7
+4	6	μέγιστε	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	μέγας	amod	5
+4	7	.	PUNCT	Z		.	ROOT	7

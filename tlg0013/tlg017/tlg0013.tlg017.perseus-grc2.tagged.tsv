@@ -1,0 +1,35 @@
+1	0	Κάστορα	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Κάστωρ	ROOT	0
+1	1	καὶ	CCONJ	C-		καί	cc	0
+1	2	Πολυδεύκἐ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πολυδεύκἐ	conj	0
+1	3	ἀείσεο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἀείσω	conj	0
+1	4	,	PUNCT	Z		,	ROOT	4
+1	5	Μοῦσα	PROPN	Ne	Case=Voc|Gender=Fem|Number=Sing	Μοῦσα	ROOT	5
+1	6	λίγεια	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	λιγύς	amod	5
+1	7	,	PUNCT	Z		,	punct	5
+2	0	Τυνδαρίδας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	Τυνδάρεος	ROOT	0
+2	1	,	PUNCT	Z	Case=Acc|Gender=Fem|Number=Plur	,	nmod	0
+2	2	οἳ	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ	nsubj	5
+2	3	Ζηνὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	5
+2	4	Ὀλυμπίου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Ὀλύμπιος	amod	3
+2	5	ἐξεγένοντο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐκγίγνομαι	acl	0
+2	6	·	PUNCT	Z		·	punct	0
+3	0	τοὺς	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὁ	obj	4
+3	1	ὑπὸ	ADP	R-		ὑπό	case	3
+3	2	Τηϋγέτου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Τηϋγέτης	nmod	3
+3	3	κορυφῇς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	κορυφή	obl	4
+3	4	τέκε	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	τίκτω	ROOT	4
+3	5	πότνια	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	πότνια	nsubj	4
+3	6	Λήδη	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Λήδης	xcomp	4
+4	0	λάθρη	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	λάθρῃ	ROOT	0
+4	1	ὑποδμηθεῖσα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ὑποδαμνάω	advcl	0
+4	2	κελαινεφέι	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	κελαινεφής	iobj	1
+4	3	Κρονίωνι	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Κρονίων	nmod	2
+4	4	.	PUNCT	Z		.	punct	0
+5	0	χαίρετε	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	0
+5	1	,	PUNCT	Z		,	punct	0
+5	2	Τυνδαρίδαι	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	Τυνδάρεος	ROOT	2
+5	3	,	PUNCT	Z		,	det	5
+5	4	ταχέων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ταχύς	amod	5
+5	5	ἐπιβήτορες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ἐπιβήτωρ	ROOT	5
+5	6	ἵππων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ἵππος	nmod	5
+5	7	.	PUNCT	Z		.	ROOT	7

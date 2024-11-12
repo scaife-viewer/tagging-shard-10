@@ -1,0 +1,50 @@
+1	0	κυπρογενῆ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	κυπρογενής	vocative	2
+1	1	Κυθέρειαν	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Κυθέρεια	obj	2
+1	2	ἀείσομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀείδω	ROOT	2
+1	3	,	PUNCT	Z		,	dep	2
+1	4	ἥτε	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ὅστε	nsubj	5
+1	5	βροτοῖσι	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	βροτός	ROOT	5
+2	0	μείλιχα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	μείλιχος	amod	1
+2	1	δῶρα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	δῶρον	obj	2
+2	2	δίδωσιν	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δίδωμι	ROOT	2
+2	3	,	PUNCT	Z		,	punct	2
+2	4	ἐφ	ADP	R-		ἐφ	case	5
+2	5	’	CCONJ	C-		’	orphan	8
+2	6	ἱμερτῷ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	ἱμερτῷ	det	8
+2	7	δὲ	ADV	Df		δέ	discourse	6
+2	8	προσώπῳ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	πρόσωπον	ROOT	8
+3	0	αἰεὶ	ADV	Df		ἀεί	advmod	1
+3	1	μειδιάει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μειδιάω	ROOT	1
+3	2	καὶ	CCONJ	C-		καί	cc	1
+3	3	ἐφ	ADP	R-		ἐφ	mark	6
+3	4	’	CCONJ	A-		’	cc	6
+3	5	ἱμερτὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἱμερτός	obl	6
+3	6	θέει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θέω	conj	1
+3	7	ἄνθος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	ἄνθος	nsubj	6
+3	8	.	PUNCT	Z		.	punct	1
+4	0	χαῖρε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	vocative	1
+4	1	,	PUNCT	Z	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	,	ROOT	1
+4	2	θεά	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	θεά	vocative	1
+4	3	,	PUNCT	Z		,	punct	1
+4	4	Σαλαμῖνος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Σαλαμίς	iobj	6
+4	5	ἐυκτιμένης	VERB	V-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἐϋκτίμενος	amod	4
+4	6	μεδέουσα	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	μεδέων	ROOT	6
+5	0	εἰναλίης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	εἰναλία	amod	2
+5	1	τε	CCONJ	C-		τε	cc	0
+5	2	Κύπρου	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Κύπρος	ROOT	2
+5	3	·	PUNCT	Z		·	punct	2
+5	4	δὸς	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	δίδωμι	ROOT	4
+5	5	δ’	ADV	Df		δ’	discourse	4
+5	6	ἱμερόεσσαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἱμερόεις	amod	7
+5	7	ἀοιδήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀοιδή	obj	4
+5	8	.	PUNCT	Z		.	punct	4
+6	0	αὐτὰρ	ADV	Df		ἀτάρ	discourse	3
+6	1	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	3
+6	2	καὶ	ADV	Df		καί	advmod	3
+6	3	σεῖο	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	ROOT	3
+6	4	καὶ	CCONJ	C-		καί	cc	3
+6	5	ἄλλης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ἄλλος	amod	6
+6	6	μνήσομ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	μνήσομ	conj	3
+6	7	’	INTJ	I-		’	iobj	6
+6	8	ἀοιδῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀοιδή	iobj	6
+6	9	.	PUNCT	Z		.	punct	3

@@ -1,0 +1,61 @@
+1	0	μουσάων	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	Μοῦσα	iobj	1
+1	1	ἄρχωμαι	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἄρχωμαι	ROOT	1
+1	2	Ἀπόλλωνός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἀπόλλων	dep	1
+1	3	τε	CCONJ	C-		τε	cc	2
+1	4	Διός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	conj	2
+1	5	τε	CCONJ	C-		τε	cc	2
+1	6	·	PUNCT	Z		·	punct	1
+2	0	ἐκ	ADP	R-		ἐκ	case	2
+2	1	γὰρ	ADV	Df		γάρ	discourse	2
+2	2	Μουσάων	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	Μοῦσα	ROOT	2
+2	3	καὶ	CCONJ	C-		καί	cc	2
+2	4	ἑκηβόλου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	ἑκηβόλος	amod	5
+2	5	Ἀπόλλωνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἀπόλλων	conj	2
+3	0	ἄνδρες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ἀνήρ	nsubj	1
+3	1	ἀοιδοὶ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ἀοιδός	ROOT	1
+3	2	ἔασιν	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἶμι	cop	1
+3	3	ἐπὶ	ADP	R-		ἐπί	case	4
+3	4	χθονὶ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	χθών	nmod	2
+3	5	καὶ	CCONJ	C-		καί	cc	2
+3	6	κιθαρισταί	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	κιθαριστής	conj	2
+3	7	,	PUNCT	Z		,	ROOT	7
+4	0	ἐκ	ADP	R-		ἐκ	case	2
+4	1	δὲ	ADV	Df		δέ	discourse	2
+4	2	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	orphan	3
+4	3	βασιλῆες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	βασιλεύς	ROOT	3
+4	4	·	PUNCT	Z		·	ROOT	4
+4	5	ὃ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	nsubj	7
+4	6	δʼ	ADV	Df		δέ	discourse	7
+4	7	ὄλβιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ὄλβιος	ROOT	7
+4	8	,	PUNCT	Z		,	punct	7
+4	9	ὅν	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὅς	obj	10
+4	10	τινα	PRON	Pi	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	τίς	ROOT	10
+4	11	Μοῦσαι	PROPN	Ne	Case=Nom|Gender=Fem|Number=Plur	Μοῦσα	nsubj	10
+5	0	φίλωνται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	φιλέω	ROOT	0
+5	1	·	PUNCT	Z		·	punct	0
+5	2	γλυκερή	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	γλυκερός	amod	7
+5	3	οἱ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	ὁ	iobj	6
+5	4	ἀπὸ	ADP	R-		ἀπό	case	5
+5	5	στόματος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	στόμα	obl	6
+5	6	ῥέει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ῥέω	ROOT	6
+5	7	αὐδή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	αὐδή	nsubj	6
+5	8	.	PUNCT	Z		.	punct	6
+6	0	χαίρετε	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	0
+6	1	,	PUNCT	Z		,	punct	0
+6	2	τέκνα	NOUN	Nb	Case=Voc|Gender=Neut|Number=Plur	τέκνον	ROOT	2
+6	3	Διός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	2
+6	4	,	PUNCT	Z	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	,	ROOT	4
+6	5	καὶ	CCONJ	C-		καί	cc	7
+6	6	ἐμὴν	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἐμός	nmod	8
+6	7	τιμήσατʼ	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	τιμήσα	conj	4
+6	8	ἀοιδήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἀοιδή	obj	7
+6	9	·	PUNCT	Z		·	punct	4
+7	0	αὐτὰρ	ADV	Df		ἀτάρ	discourse	6
+7	1	ἐγὼν	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	6
+7	2	ὑμέων	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς	iobj	6
+7	3	τε	CCONJ	C-		τε	cc	2
+7	4	καὶ	CCONJ	C-		καί	cc	2
+7	5	ἄλλης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ἄλλος	conj	2
+7	6	μνήσομʼ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	μνήσομαι	ROOT	6
+7	7	ἀοιδῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀοιδή	iobj	6
+7	8	.	PUNCT	Z		.	punct	6

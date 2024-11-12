@@ -1,0 +1,35 @@
+1	0	Ἥρην	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Ἥρα	obj	1
+1	1	ἀείδω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀείδω	ROOT	1
+1	2	χρυσόθρονον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	χρυσόθρονος	amod	0
+1	3	,	PUNCT	Z	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	,	acl	0
+1	4	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obj	5
+1	5	τέκε	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	τίκτω	acl	3
+1	6	Ῥείη	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Ῥέα	nsubj	5
+1	7	,	PUNCT	Z		,	appos	0
+2	0	ἀθανάτων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἀθάνατος	amod	1
+2	1	βασίλειαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	βασίλεια	ROOT	1
+2	2	,	PUNCT	Z		,	iobj	5
+2	3	ὑπείροχον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ὑπέροχος	amod	4
+2	4	εἶδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	εἶδος	obj	5
+2	5	ἔχουσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	ROOT	5
+2	6	,	PUNCT	Z		,	ROOT	6
+3	0	Ζην`?̀ς	ADV	Df		Ζην`?̀ς	ROOT	0
+3	1	ἐριγδούποιο	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐρίγδουπος	amod	2
+3	2	κασιγνήτην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	κασιγνήτη	appos	0
+3	3	ἄλοχόν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἄλοχος	conj	2
+3	4	τε	CCONJ	C-		τε	cc	2
+3	5	,	PUNCT	Z		,	ROOT	5
+4	0	κυδρήν	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	κυδρός	ROOT	0
+4	1	,	PUNCT	Z		,	appos	0
+4	2	ἣν	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obj	4
+4	3	πάντες	DET	Px	Case=Nom|Gender=Masc|Number=Plur	πᾶς	det	4
+4	4	μάκαρες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	μάκαρ	nmod	0
+4	5	κατὰ	ADP	R-		κατά	case	7
+4	6	μακρὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μακρός	amod	7
+4	7	Ὄλυμπον	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Ὄλυμπος	obl	0
+5	0	ἁζόμενοι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἅζομαι	advcl	1
+5	1	τίουσιν	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	τίω	ROOT	1
+5	2	ὁμῶς	ADV	Df		ὁμῶς	advmod	1
+5	3	Διὶ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Ζεύς	iobj	2
+5	4	τερπικεραύνῳ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	τερπικέραυνος	amod	3
+5	5	.	PUNCT	Z		.	punct	1

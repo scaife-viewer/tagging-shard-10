@@ -1,0 +1,31 @@
+1	0	Δημήτηρ	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Δημήτηρ	ROOT	0
+1	1	’	ADV	A-		’	amod	0
+1	2	ἠύκομον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	εὔκομος	amod	1
+1	3	,	PUNCT	Z		,	ROOT	3
+1	4	σεμνὴν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	σεμνός	amod	5
+1	5	θεάν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	θεάν	appos	3
+1	6	,	PUNCT	Z	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	,	ROOT	6
+1	7	ἄρχομ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἄρχομ	ROOT	7
+1	8	’	ADV	Df		’	discourse	7
+1	9	ἀείδειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀείδω	xcomp	7
+1	10	,	PUNCT	Z		,	punct	7
+2	0	αὐτὴν	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός	ROOT	0
+2	1	καὶ	CCONJ	C-		καί	cc	0
+2	2	κούρην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	κόρη	conj	0
+2	3	,	PUNCT	Z	Case=Acc|Gender=Fem|Number=Sing	,	ROOT	3
+2	4	περικαλλέα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	περικαλλής	amod	5
+2	5	Περσεφόνειαν	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Περσεφόνεια	appos	3
+2	6	.	PUNCT	Z		.	ROOT	6
+3	0	χαῖρε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	0
+3	1	,	PUNCT	Z		,	punct	0
+3	2	θεά	NOUN	Ne	Case=Voc|Gender=Fem|Number=Sing	θεά	ROOT	2
+3	3	,	PUNCT	Z		,	ROOT	3
+3	4	καὶ	ADV	Df		καί	advmod	6
+3	5	τήνδε	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	ὅδε	det	7
+3	6	σάου	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	σάου	conj	3
+3	7	πόλιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πόλις	obj	6
+3	8	·	PUNCT	Z		·	punct	3
+3	9	ἄρχε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἄρχω	ROOT	9
+3	10	δ’	ADV	Df		δ’	discourse	9
+3	11	ἀοιδῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἀοιδή	iobj	9
+3	12	.	PUNCT	Z		.	punct	9

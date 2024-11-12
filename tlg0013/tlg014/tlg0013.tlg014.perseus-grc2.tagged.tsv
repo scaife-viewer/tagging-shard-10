@@ -1,0 +1,51 @@
+1	0	μητέρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	μήτηρ	ROOT	0
+1	1	μοι	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nmod	0
+1	2	πάντων	DET	Px	Case=Gen|Gender=Masc|Number=Plur	πᾶς	det	4
+1	3	τε	CCONJ	C-		τε	cc	2
+1	4	θεῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	θεός	nmod	0
+1	5	πάντων	DET	Px	Case=Gen|Gender=Masc|Number=Plur	πᾶς	det	4
+1	6	τʼ	CCONJ	C-		τε	cc	4
+1	7	ἀνθρώπων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ἄνθρωπος	conj	4
+2	0	ὕμνει	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ὕμνος	ROOT	0
+2	1	,	PUNCT	Z		,	punct	0
+2	2	Μοῦσα	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	Μοῦσα	vocative	4
+2	3	λίγεια	ADJ	A-	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing	λιγύς	amod	2
+2	4	,	PUNCT	Z		,	ROOT	4
+2	5	Διὸς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ζεύς	nmod	6
+2	6	θυγάτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	θυγάτηρ	conj	4
+2	7	μεγάλοιο	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	μέγας	dep	6
+2	8	,	PUNCT	Z		,	punct	4
+3	0	ᾗ	CCONJ	C-		ὅς	cc	1
+3	1	κροτάλων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	κρόταλον	ROOT	1
+3	2	τυπάνων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	τυπάνω	conj	1
+3	3	τʼ	CCONJ	C-		τε	cc	1
+3	4	ἰαχὴ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἰαχή	conj	1
+3	5	σύν	ADV	Df		σύν	orphan	7
+3	6	τε	CCONJ	C-		τε	cc	5
+3	7	βρόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	βρόμος	ROOT	7
+3	8	αὐλῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	αὐλέω	nmod	7
+4	0	εὔαδεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἁνδάνω	ROOT	0
+4	1	ἠδὲ	CCONJ	C-		ἠδέ	dep	0
+4	2	λύκων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	λύκος	nmod	3
+4	3	κλαγγὴ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	κλαγγή	conj	0
+4	4	χαροπῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	χαροπός	dep	3
+4	5	τε	CCONJ	C-		τε	cc	3
+4	6	λεόντων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	λέων	dep	3
+5	0	οὔρεά	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	ὄρος	ROOT	0
+5	1	τʼ	CCONJ	C-		τε	cc	0
+5	2	ἠχήεντα	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἠχήεις	acl	0
+5	3	καὶ	CCONJ	C-		καί	cc	0
+5	4	ὑλήεντες	ADJ	V-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ὑλήεντες	amod	5
+5	5	ἔναυλοι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ἔναυλος	conj	0
+5	6	.	PUNCT	Z		.	ROOT	6
+6	0	καὶ	CCONJ	C-		καί	cc	4
+6	1	σὺ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	4
+6	2	μὲν	ADV	Df		μέν	discourse	4
+6	3	οὕτω	ADV	Df		οὕτως	advmod	4
+6	4	χαῖρε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	χαίρω	ROOT	4
+6	5	θεαί	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	θεά	vocative	4
+6	6	θʼ	CCONJ	C-		θ	cc	4
+6	7	ἅμα	ADV	Df		ἅμα	orphan	9
+6	8	πᾶσαι	DET	Px	Case=Nom|Gender=Fem|Number=Plur	πᾶς	det	9
+6	9	ἀοιδῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἀοιδή	conj	4
+6	10	.	PUNCT	Z		.	punct	4
